@@ -1,0 +1,5 @@
+APPLES = 10
+BANANA = 20
+PEAR = 30
+
+fruits = [APPLES, BANANA, PEAR]

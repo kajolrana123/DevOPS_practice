@@ -1,0 +1,33 @@
+Datatype:
+
+String - sentence, word, character
+Integer - whole number example 1, 2, 3, 4, 5
+Float - decimal number example 1.1, 1.0, 2.4
+Boolean - True and false value
+
+Objects: is a collection of Datatype
+
+List
+Dictionary
+Set/Tuple
+
+common python module:
+
+os - operating system
+sys - system
+re - regular expression
+math - mathematical functions
+random - random number generator
+datetime - date and time
+json - javascript Objects notations
+
+Different file operations
+r - read
+w - write
+a - append
+r+ - read and write
+w+ - write and read
+a+ - append and read
+rb - read binary
+wb - write binary
+ab - append binary
