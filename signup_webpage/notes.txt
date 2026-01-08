@@ -1,0 +1,76 @@
+1. Relational Databases (SQL)
+
+Most common & traditional
+
+🔹 Data stored in tables (rows & columns)
+🔹 Uses SQL (Structured Query Language)
+🔹 Strong consistency & relationships (foreign keys)
+
+Examples:
+
+MySQL
+PostgreSQL
+Oracle
+SQL Server
+
+Used for:
+Banking systems
+E-commerce
+ERP / CRM systems
+
+2️. Document Databases (NoSQL)
+
+Stores data as documents (JSON-like)
+
+🔹 Schema-less or flexible schema
+🔹 Easy to scale
+🔹 Great for APIs & web apps
+
+Examples:
+MongoDB
+CouchDB
+Firebase Firestore
+
+Used for:
+Web & mobile apps
+Content management
+Microservices
+
+3️. Key-Value Databases
+
+Simplest and fastest
+
+🔹 Data stored as key → value
+🔹 Extremely fast lookups
+🔹 Often used as cache
+
+Examples:
+Redis
+DynamoDB
+Riak
+
+Used for:
+Caching
+Session storage
+Real-time data
+
+4️. Graph Databases
+
+Focus on relationships
+
+🔹 Data stored as nodes & edges
+🔹 Excellent for complex relationships
+🔹 Query relationships efficiently
+
+Examples:
+Neo4j
+Amazon Neptune
+ArangoDB
+
+Used for:
+Social networks
+Recommendation engines
+Fraud detection
+
+kajolrana123_db_user
+uPP3LdSw2TezPEF8
